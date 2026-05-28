@@ -28,6 +28,6 @@ Basta apontar o atributo `src` da sua tag `<img>` para a URL onde a API está ho
 ### 2. Grade de 4 colunas (Perfeito para o perfil do GitHub)
 Se você passar 12 ícones e definir cols=4, a API gera automaticamente uma grade de 4x3 perfeitamente alinhada
 ```html
-<img src="http://localhost/icon-set/?icon=html,css,js,php,mysql,laravel,python,aws,git,docker,linux,react&cols=4" alt="Minhas Techs">
+<img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,laravel,python,aws,git,docker,linux,react&cols=4" alt="Minhas Techs">
 ```
-<img src="http://localhost/icon-set/?icon=html,css,js,php,mysql,laravel,python,aws,git,docker,linux,react&cols=4" alt="Minhas Techs">
+<img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,laravel,python,aws,git,docker,linux,react&cols=4" alt="Minhas Techs">
