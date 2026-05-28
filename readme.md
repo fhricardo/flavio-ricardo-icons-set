@@ -22,4 +22,4 @@ Basta apontar o atributo `src` da sua tag `<img>` para a URL onde a API está ho
 
 ### 1. Linha única padrão (Fundo escuro, quadrado, tamanho 2rem)
 ```html
-<img src="http://localhost/icon-set/?icon=html,css,js,php" alt="Minha Stack">
+<img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php" alt="Minha Stack">
