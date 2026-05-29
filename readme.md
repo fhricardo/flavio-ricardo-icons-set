@@ -62,12 +62,13 @@ Se você passar 12 ícones e definir cols=4, a API gera automaticamente uma grad
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=antigravity&m=d&s=2"> | antigravity | Google Antigravity | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=apple&m=d&s=2"> | apple | Apple | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=au&m=d&s=2"> | au | Adobe Audition | 
-| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=c#&m=d&s=2"> | c# | C# | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=csharp&m=d&s=2"> | csharp | C# | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=c++&m=d&s=2"> | c++ | C++ | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=c&m=d&s=2"> | c | C | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ch&m=d&s=2"> | ch | Adobe Character Animator | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=chatgpt-dark&m=d&s=2"> | chatgpt | ChatGPT | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=claude&m=d&s=2"> | claude | Claude | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=coreldraw&m=d&s=2"> | coreldraw | CorelDRAW | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=css&m=d&s=2"> | css | CSS3 | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=deepseek&m=d&s=2"> | deepseek | DeepSeek | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=dn&m=d&s=2"> | dn | Adobe Dimension | 
