@@ -1,1 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="64" ry="64" fill="#061f34"/><text transform="translate(89.92 361.9)" fill="#388ccb" font-family="Ubuntu-Bold, Ubuntu" font-size="346.01" font-weight="700" letter-spacing="-.02em"><tspan x="0" y="0">Lr</tspan></text></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" ry="64" fill="#061f34"/>
+  <g>
+    <path d="M277.8,315.54v46.37H117.6V122.12h53.98v193.42h106.22Z" fill="#388ccb"/>
+    <path d="M409.97,225.57c-4.62-1.15-10.04-2.36-16.26-3.63-6.23-1.27-12.92-1.9-20.07-1.9-3.23,0-7.09.29-11.59.86-4.5.58-7.9,1.21-10.21,1.9v139.09h-51.55v-172.31c9.22-3.23,20.12-6.28,32.7-9.17,12.57-2.88,26.58-4.32,42.04-4.32,2.77,0,6.11.17,10.03.52,3.92.35,7.84.81,11.76,1.38,3.92.58,7.84,1.27,11.76,2.08,3.92.81,7.27,1.79,10.03,2.94l-8.65,42.56Z" fill="#388ccb"/>
+  </g>
+</svg>
