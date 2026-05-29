@@ -53,50 +53,51 @@ Se você passar 12 ícones e definir cols=4, a API gera automaticamente uma grad
 
 ### 5. Relação de ícones disponível (em 29 de maio de 2026):
 (em ordem alfabética)
-|Imagem|código para uso|Nome|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=acrobat&m=d&s=2">|acrobat|Adobe Acrobat|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=adobe-fonts-dark&m=d&s=2">|adobe-fonts|Adobe Fonts|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ae&m=d&s=2">|ae|Adobe After Efects|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ai&m=d&s=2">|ai|Adobe Illustrator|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=antigravity&m=d&s=2">|antigravity|Google Antigravity|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=apple&m=d&s=2">|apple|Apple|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=au&m=d&s=2">|au|Adobe Audition|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=c#&m=d&s=2">|c#|C#|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=c++&m=d&s=2">|c++|C++|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=c&m=d&s=2">|c|C|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ch&m=d&s=2">|ch|Adobe Character Animator|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=chatgpt-dark&m=d&s=2">|chatgpt|ChatGPT|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=claude&m=d&s=2">|claude|Claude|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=css&m=d&s=2">|css|CSS3|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=deepseek&m=d&s=2">|deepseek|DeepSeek|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=dn&m=d&s=2">|dn|Adobe Dimension|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=docker&m=d&s=2">|docker|Docker|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ds&m=d&s=2">|ds|Substance 3D Designer|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=dw&m=d&s=2">|dw|Adobe Dreamweaver|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=figma&m=d&s=2">|figma|Figma|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=fr&m=d&s=2">|fr|Adobe Fresco|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=git&m=d&s=2">|git|Git|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=github&m=d&s=2">|github|GitHub|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=go&m=d&s=2">|go|Go|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=html&m=d&s=2">|html|HTML5|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ic&m=d&s=2">|ic|Adobe InCopy|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=id&m=d&s=2">|id|Adobe InDesign|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=js&m=d&s=2">|js|JavaScript|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=laravel&m=d&s=2">|laravel|Laravel|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=linux&m=d&s=2">|linux|Linux|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=lr&m=d&s=2">|lr|Adobe Lightroom|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=me&m=d&s=2">|me|Adobe Media Encoder|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ms&m=d&s=2">|ms|Microsoft|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=mysql&m=d&s=2">|mysql|MySQL|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=php-dark&m=d&s=2">|php|PHP|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=pr&m=d&s=2">|pr|Adobe Premiere|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ps&m=d&s=2">|ps|Adobe Photoshop|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=pt&m=d&s=2">|pt|Substance 3D Painter|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=python&m=d&s=2">|python|Python|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ruby&m=d&s=2">|ruby|Ruby|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=sa&m=d&s=2">|sa|Substance 3D Sampler|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=sg&m=d&s=2">|sg|Substange 3D Stager|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=ts&m=d&s=2">|ts|TypeScript|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=vscode&m=d&s=2">|vscode|Visual Studio Code|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=windows&m=d&s=2">|windows|Microsoft Windows|
-|<img src="https://flavioricardo.com.br/iconSetAPI/?icon=xd&m=d&s=2">|xd|Adobe XD|
+| Imagem | código para uso | Nome | 
+| :--- | :--- | :--- |
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=acrobat&m=d&s=2"> | acrobat | Adobe Acrobat | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=adobe-fonts-dark&m=d&s=2"> | adobe-fonts | Adobe Fonts | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ae&m=d&s=2"> | ae | Adobe After Efects | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ai&m=d&s=2"> | ai | Adobe Illustrator | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=antigravity&m=d&s=2"> | antigravity | Google Antigravity | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=apple&m=d&s=2"> | apple | Apple | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=au&m=d&s=2"> | au | Adobe Audition | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=c#&m=d&s=2"> | c# | C# | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=c++&m=d&s=2"> | c++ | C++ | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=c&m=d&s=2"> | c | C | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ch&m=d&s=2"> | ch | Adobe Character Animator | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=chatgpt-dark&m=d&s=2"> | chatgpt | ChatGPT | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=claude&m=d&s=2"> | claude | Claude | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=css&m=d&s=2"> | css | CSS3 | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=deepseek&m=d&s=2"> | deepseek | DeepSeek | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=dn&m=d&s=2"> | dn | Adobe Dimension | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=docker&m=d&s=2"> | docker | Docker | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ds&m=d&s=2"> | ds | Substance 3D Designer | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=dw&m=d&s=2"> | dw | Adobe Dreamweaver | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=figma&m=d&s=2"> | figma | Figma | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=fr&m=d&s=2"> | fr | Adobe Fresco | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=git&m=d&s=2"> | git | Git | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=github&m=d&s=2"> | github | GitHub | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=go&m=d&s=2"> | go | Go | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=html&m=d&s=2"> | html | HTML5 | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ic&m=d&s=2"> | ic | Adobe InCopy | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=id&m=d&s=2"> | id | Adobe InDesign | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=js&m=d&s=2"> | js | JavaScript | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=laravel&m=d&s=2"> | laravel | Laravel | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=linux&m=d&s=2"> | linux | Linux | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=lr&m=d&s=2"> | lr | Adobe Lightroom | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=me&m=d&s=2"> | me | Adobe Media Encoder | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ms&m=d&s=2"> | ms | Microsoft | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=mysql&m=d&s=2"> | mysql | MySQL | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=php-dark&m=d&s=2"> | php | PHP | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=pr&m=d&s=2"> | pr | Adobe Premiere | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ps&m=d&s=2"> | ps | Adobe Photoshop | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=pt&m=d&s=2"> | pt | Substance 3D Painter | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=python&m=d&s=2"> | python | Python | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ruby&m=d&s=2"> | ruby | Ruby | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=sa&m=d&s=2"> | sa | Substance 3D Sampler | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=sg&m=d&s=2"> | sg | Substange 3D Stager | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ts&m=d&s=2"> | ts | TypeScript | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=vscode&m=d&s=2"> | vscode | Visual Studio Code | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=windows&m=d&s=2"> | windows | Microsoft Windows | 
+| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=xd&m=d&s=2"> | xd | Adobe XD | 
