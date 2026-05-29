@@ -18,12 +18,14 @@ Uma API leve e extremamente customizável para gerar grades e linhas de ícones 
 
 ## 🛠️ Como Usar (Exemplos)
 
-Basta apontar o atributo `src` da sua tag `<img>` para a URL onde a API está hospedada:
+Basta apontar o atributo `src` da sua tag `<img>` para a URL da API:
+```https://flavioricardo.com.br/iconSetAPI/```
 
 ### 1. Linha única padrão (Fundo escuro, quadrado, tamanho 2rem)
 ```html
 <img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php" alt="Minha Stack">
 ```
+<img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php" alt="Minha Stack">
 
 ### 2. Grade de 4 colunas (Perfeito para o perfil do GitHub)
 Se você passar 12 ícones e definir cols=4, a API gera automaticamente uma grade de 4x3 perfeitamente alinhada
