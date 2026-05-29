@@ -95,7 +95,6 @@ Se você passar 12 ícones e definir cols=4, a API gera automaticamente uma grad
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ps&m=d&s=2"> | ps | Adobe Photoshop | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=pt&m=d&s=2"> | pt | Substance 3D Painter | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=python&m=d&s=2"> | python | Python | 
-| <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ruby&m=d&s=2"> | ruby | Ruby | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=sa&m=d&s=2"> | sa | Substance 3D Sampler | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=sg&m=d&s=2"> | sg | Substange 3D Stager | 
 | <img src="https://flavioricardo.com.br/iconSetAPI/?icon=ts&m=d&s=2"> | ts | TypeScript | 
