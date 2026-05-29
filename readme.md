@@ -31,3 +31,20 @@ Se você passar 12 ícones e definir cols=4, a API gera automaticamente uma grad
 <img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,laravel,python,aws,git,docker,linux,react&cols=4" alt="Minhas Techs">
 ```
 <img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js,php,mysql,laravel,python,aws,git,docker,linux,react&cols=4" alt="Minhas Techs">
+
+### 3. Totalmente customizado (Ícones grandes, redondos, modo claro e bem espaçados)
+
+```html
+<img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js&s=3&g=4&m=l&t=r" alt="Techs Redondas">
+```
+<img src="https://flavioricardo.com.br/iconSetAPI/?icon=html,css,js&s=3&g=4&m=l&t=r" alt="Techs Redondas">
+
+### 4.Parâmetros Disponíveis
+| Parâmetro | Descrição | Valores Aceitos | Padrão |
+| :--- | :--- | :--- | :--- |
+| `icon` | Lista de ícones separados por vírgula | `nome-do-arquivo` (sem o `.svg`) | *Obrigatório* |
+| `cols` | Limite de ícones por linha (colunas) | Qualquer número inteiro maior que 0 | Total de ícones |
+| `s` | Tamanho do container do ícone | `1` (2rem/32px), `2` (3rem/48px), `3` (4rem/64px) | `1` |
+| `g` | Espaçamento (Gap) entre os ícones | `1` (0.25rem), `2` (0.5rem), `3` (1rem), `4` (1.5rem), `5` (2rem) | `1` |
+| `m` | Modo (Tema de cores do container) | `d` (Escuro: Fundo `#1e1e1e`), `l` (Claro: Fundo `#f5f5f5`) | `d` |
+| `t` | Tipo/Formato do container | `s` (Quadrado), `r` (Redondo), `rs` (Quadrado Arredondado) | `s` |
